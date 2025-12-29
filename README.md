@@ -109,7 +109,7 @@ These confirm that the model learns meaningful patterns from the data.
    ```bash
    pip install tensorflow pandas numpy matplotlib seaborn
    ```
-3. Run the Python script or Jupyter notebook
+3. Run the Python script on Jupyter notebook
 4. View visualizations and model performance
 
 ---
