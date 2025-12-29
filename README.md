@@ -124,23 +124,23 @@ This project demonstrates how **deep learning regression models** can effectivel
 
 The repository includes screenshots showing:
 
-* Dataset overview in VS Code
+###* Dataset overview in VS Code
 <img width="1920" height="1020" alt="Screenshot 2025-12-29 194120" src="https://github.com/user-attachments/assets/bf62d185-c0cb-49e8-889d-77411a506e9f" />
 
-
-* Feature distributions
+---
+###* Feature distributions
 <img width="1920" height="1020" alt="Screenshot 2025-12-29 194152" src="https://github.com/user-attachments/assets/70629058-cbfd-4682-9b43-8ce1ba6e6344" />
 
-
-* Correlation heatmap
+---
+###* Correlation heatmap
 <img width="1920" height="1020" alt="Screenshot 2025-12-29 194204" src="https://github.com/user-attachments/assets/70493fc6-9cfd-4094-81cb-11e98ec220a9" />
 
-
-* MAE and MSE training curves
+---
+###* MAE and MSE training curves
 <img width="1920" height="1020" alt="Screenshot 2025-12-29 194224" src="https://github.com/user-attachments/assets/f2c00a46-17d9-44b8-add3-cdc5bbf82a15" />
 
-
-* Model summary and training logs
+---
+###* Model summary and training logs
 <img width="1920" height="1020" alt="Screenshot 2025-12-29 194404" src="https://github.com/user-attachments/assets/f499e7b6-8e49-45e1-82a4-b941a16f66fd" />
 
 ---
